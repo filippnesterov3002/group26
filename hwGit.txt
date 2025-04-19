@@ -1,0 +1,9 @@
+open folder with git
+1 - cat > hw1.txt
+2 - paste all infomation
+3 - Contrl C
+4 - git status (chek if evrytng is correct)
+5 - git add hw1.txt
+6 - git commit -m "commit hw1.txt"
+7 - git push
+8 - check git.hub
