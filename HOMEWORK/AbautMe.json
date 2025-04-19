@@ -1,2 +1,8 @@
-{"Name":["Filipp"]}, {"Age":20}, {"Hight":190}, {"weight":78}, {"work":false}
-
+{"AboutMe":[
+	{"name:"Filipp"},
+	{"Age":20},
+	{"Hight":190},
+	{"weight":78}, 
+	{"work":false}
+	{"family": "brother and sister"}
+]}
